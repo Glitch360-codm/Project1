@@ -1,5 +1,7 @@
 #include <windows.h> //initializing windows libraries
 
+// test
+
 LRESULT CALLBACK WindowProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam);
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PWSTR PCmdLine, int nCmdShow)
